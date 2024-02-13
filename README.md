@@ -7,3 +7,7 @@ Image Segmentation Project based on CSCI699 Homework 2
 * This repo demonstrates my previous experience in advanced understanding of computer vision.
 * Tensorflow Keras 
 * Version
+
+### How to run?
+* Execute starter.py
+
